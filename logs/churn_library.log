@@ -1,0 +1,27 @@
+root - INFO - ---------End-----of Data Churn Process
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Success: performing exploratory data analysis
+root - INFO - Checking if Churn_plot filepath exist
+root - INFO - Success: file path exist
+root - INFO - Checking if Customer_age_plot filepath exist
+root - INFO - Success: file path exist
+root - INFO - Checking if Correlation_plot filepath exist
+root - INFO - Success: file path exist
+root - INFO - Checking if describe_plot filepath exist
+root - INFO - Success: file path exist
+root - INFO - Checking if Marital_Status_plot filepath exist
+root - INFO - Success: file path exist
+root - INFO - Checking if Total_Trans_Ct_plot filepath exist
+root - INFO - Success: file path exist
+root - INFO - End of EDA process.
+root - INFO - -------------------
+
+root - INFO - -----Data Encoder in progress -----
+root - INFO - Success: All categorical columns have been turned into numerical columns
+root - INFO - -----Performing Feature Transformation-------
+root - INFO - Success: Feature transform complete
+root - INFO - Training Model in progress
+root - INFO - Success: Both Logistic and Randomforest model have been created
+root - INFO - Success: All model performance image as been created
+root - INFO - Success: All classification reports have been created
+root - INFO - Success: Feature Importance plot created
